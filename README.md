@@ -1,10 +1,9 @@
 ### Boas vindasao meu perfil 💜✨
 
-Meu nome é Mirela Silva
+Meu nome é Marcelo Paludetto
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-- Estou estudando na [Alura](https://www.alura.com.br)
 
-### Você pode entrar em contato comigo :mailbox
+![descrição do GIF](https://media1.tenor.com/m/qQULHK5HbC0AAAAC/hello.gif)

@@ -1,6 +1,6 @@
-### Boas vindasao meu perfil 💜✨
+### Boas vindas ao meu perfil 💜✨
 
-Meu nome é Marcelo Paludetto
+Meu nome é Mirela Silva
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
